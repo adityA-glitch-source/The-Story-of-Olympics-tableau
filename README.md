@@ -16,7 +16,7 @@ The goal of this project is to explore Olympic history, analyze participation tr
 - World map showing host cities of the Olympics 🌍  
 - Medal tally by country 🏆  
 
-![Overall Dashboard](overall.png)
+![Overall Dashboard](Overall.png)
 
 ---
 
@@ -26,7 +26,7 @@ The goal of this project is to explore Olympic history, analyze participation tr
 - Gender distribution (pie chart) 👩‍🦰👨‍🦱  
 - Age distribution (histogram) 🎂  
 
-![Overall EDA Dashboard](overall_eda.png)
+![Overall EDA Dashboard](Overall-EDA.png)
 
 ---
 
@@ -35,7 +35,7 @@ The goal of this project is to explore Olympic history, analyze participation tr
 - Top athletes by country 👑  
 - Top sports by country ⚽🏊‍♂️🏸  
 
-![Country Wise Dashboard](country_wise.png)
+![Country Wise Dashboard](Country-wise.png)
 
 ---
 

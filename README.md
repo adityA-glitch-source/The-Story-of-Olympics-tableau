@@ -40,8 +40,7 @@ The goal of this project is to explore Olympic history, analyze participation tr
 ---
 
 ## 🔗 Live Project
-- 🌐 **[View Interactive Story on Tableau Public]([your_tableau_public_link_here](https://public.tableau.com/views/Olympics-EDA_17591736472950/TheStoryofOlympics?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)https://public.tableau.com/views/Olympics-EDA_17591736472950/TheStoryofOlympics?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**  
-  
+- 🌐 **[View Interactive Story on Tableau Public](https://public.tableau.com/views/Olympics-EDA_17591736472950/TheStoryofOlympics?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
